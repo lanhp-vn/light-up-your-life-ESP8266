@@ -6,7 +6,7 @@ Watch the demo video: [YouTube](https://youtu.be/NDT4jKHE5MQ)
 
 ### Hardware
 
-- ESP8266 (NodeMCU-style)
+- ESP8266 NodeMCU
 - Adafruit TCS34725 RGB/clear light sensor (I2C)
 - 16x2 I2C LCD (address 0x27)
 - 3 x LEDs (red, yellow, green) + resistors
